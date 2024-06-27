@@ -1,0 +1,46 @@
+
+#landingpage{
+    display: flex;
+    flex-direction: row;
+    gap: 20%;
+}
+#order-button{
+    border-radius: 30px;
+    height: 40px;
+    width: 100px;
+}
+#landing-text{
+    background-color: rgb(51, 49, 49);
+    color: #fff;
+    width: 120%;
+}
+#discount{
+    display: flex;
+    flex-direction: row;
+    gap: 30%;
+    margin-top: 4%;
+    margin-left: 20%;
+}
+#discount1{
+    background-color: #FEBB48;
+    width: 20%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#discount2{
+    background-color: #826099;  
+    width: 20%;
+}
+#girl1{
+ height: 200px;
+ width: 140px;
+
+}
+#girl2{
+    height: 200px;
+    width: 170px; 
+
+}
+
+
+
